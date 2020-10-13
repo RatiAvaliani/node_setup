@@ -1,0 +1,1 @@
+npm init -y & npm i express body-parser smpt-mail password-hash jsonwebtoken cookie ejs --save -y & npm i nodemon -g & mkdir views & mkdir public & mkdir "public/assets" & mkdir models & mkdir controllers & echo. 2>index.js
